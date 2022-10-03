@@ -1,1 +1,2 @@
 # FastRestaurant
+open Main.java
